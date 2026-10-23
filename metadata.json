@@ -1,0 +1,6 @@
+{
+  "name": "MathQuiz Pro - ระบบสอบและวิเคราะห์ผลคณิตศาสตร์",
+  "description": "ระบบสอบคณิตศาสตร์ออนไลน์พร้อมเฉลยละเอียด สถิติค่ากลาง ลีดเดอร์บอร์ดเรียลไทม์ และระบบจัดการโจทย์คณิตศาสตร์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
